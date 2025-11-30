@@ -204,9 +204,6 @@ Enable verbose logging by checking server console output and client connection m
 - **Interpolation Delay**: Larger delays provide smoother motion but add input latency
 - **Artificial Latency**: Useful for testing network robustness; disable in production
 
-## License
-
-[Add your license here]
 
 ## Support
 
